@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 event-listener = "2.5.3"
+crossterm = "0.24.0"
